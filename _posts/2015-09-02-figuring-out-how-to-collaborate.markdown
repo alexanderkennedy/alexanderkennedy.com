@@ -2,7 +2,7 @@
 layout: post
 title: "Figuring out how to collaborate"
 author: Alex
-date: 2015-09-0s 23:00:00
+date: 2015-09-02 23:00:00
 categories:
 - tutorial
 - jekyll
