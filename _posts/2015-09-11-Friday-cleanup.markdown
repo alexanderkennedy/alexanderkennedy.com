@@ -91,7 +91,7 @@ Which shows the current changes.
 
 (Apparenlty this will show the current changes.)
 
-THEN, I go "git add" and hit return.
+THEN, I go "git add ." and hit return.
 
 and THEN I do "git commit -m"  at which point I use qoutations marks and WRITE all the changes I made... Which includes changing the titlte, changing the text, and adding an inline image of shaking hands.
 
